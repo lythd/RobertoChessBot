@@ -1,6 +1,8 @@
 # RobertoChessBot
 A Chess Bot I made for Sebatian Lague's chess bot competition. It placed 293th out of 624 total bots, so top 50% woo!
+
 Competition: https://youtu.be/iScy18pVR58
+
 Results: https://youtu.be/Ne40a5LkK6A
 
 ## Explanation
